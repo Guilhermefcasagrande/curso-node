@@ -1,0 +1,19 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de notícias do curso de node da Udemy",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilhermefcasagrande/curso-node.git"
+  },
+  "author": "Guilherme Francisco Casagrande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilhermefcasagrande/curso-node/issues"
+  },
+  "homepage": "https://github.com/Guilhermefcasagrande/curso-node#readme"
+}
